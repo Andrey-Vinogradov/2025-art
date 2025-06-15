@@ -1,0 +1,5 @@
+[
+{"nameAuthor": "Толстой Л.Н.", "nameBook": "Анна Каренина"},
+{"nameAuthor": "Гоголь Н.В.", "nameBook": "Мёртвые души"},
+{"nameAuthor": "Шилд Г.", "nameBook": "JAVA полное руководство"}
+]
